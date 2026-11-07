@@ -1,7 +1,5 @@
 /memory
 /status
-
-
 Version: 2.0.27
  Model: Default Sonnet 4.5 · Smartest model for daily use
  IDE: Connected to VS Code extension version 2.1.309 (server version: 2.1.301)
